@@ -25,7 +25,7 @@
 
 **Meu discord: λΛ#8843**
 
-**Melhor amigo: G3ZZING | 
+**Melhor amigo: G3ZZING | https://github.com/G3ZZING**
 
 **Servidores que faço parte: Maellwed 1983 & NothingHorus**
 
