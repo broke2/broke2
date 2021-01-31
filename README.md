@@ -1,16 +1,16 @@
-#                                                                    *Hatsu* <img src="https://cdn.discordapp.com/attachments/783731417783861298/805499277420789770/y_black_Saturno_walker.gif" height="30px" width="30px"/> 
+#                                                                    *Hatsu -> * <img src="https://cdn.discordapp.com/attachments/783731417783861298/805499277420789770/y_black_Saturno_walker.gif" height="30px" width="30px"/> 
  
 ##
  
-<p align="center">Opa, me chamo hatsu eu atualmente estudo python.
+<p align="center">Olá! Me chamo Hatsu e sou um estudande de linguagens funcionais.
 </p>
  
-<p align="center"> passo a maioria do tempo no pycharm.
+<p align="center"> Passo a maioria do tempo estudando.
 </p>
  
 </p>
  
-<p align="center"><img src="https://64.media.tumblr.com/tumblr_m88s8m5WxQ1rcgnm6o1_500.gif?width=405&height=241" alt="Banner Profile"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/667103246858321931/805122236331196496/200645373000202.gif" alt="Banner Profile"/></p>
  
 </p>
  
@@ -51,7 +51,7 @@
  
 <p align="center"><img src="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python+IDEs/patolino-pernalonga-python-ide2.gif?width=405&height=241" alt="Banner Profile"/></p>
  
-"python 💞🙈" 
+"Haskell..." 
 <p align="left">
  
 #                                                                    *Listening* <img src="https://cdn.discordapp.com/emojis/740951406508376095.gif?v=1" height="30px" width="30px"/> 
