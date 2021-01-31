@@ -15,7 +15,7 @@
 </p>
  
  
-#                                                                     *Sistemas Operacionais* <img src="https://cdn.discordapp.com/attachments/783731417783861298/805515491258531860/div.gif" height="30px" width="30px"/> 
+#                                                                     *Sistemas Operacional* <img src="https://cdn.discordapp.com/attachments/783731417783861298/805515491258531860/div.gif" height="30px" width="30px"/> 
  
  ![Windows](https://img.shields.io/badge/Windows-%23323330?style=for-the-badge&logo=windows&logoColor=%23F7DF1E)
  
