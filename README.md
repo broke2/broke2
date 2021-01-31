@@ -1,4 +1,4 @@
-### Olá! Eu Sou o Broke.
+### Olá! Eu Sou o Hatsu.
 
 -----------------------------
 *Linguagens que não gosto:* 
@@ -23,7 +23,7 @@
 
 **Era uma brincadeirinha eu amo todas as linguagens, haha!**
 
-**Meu discord: λΛ#8843**
+**Meu discord: Hatsu#0001**
 
 **Melhor amigo: G3ZZING | https://github.com/G3ZZING**
 
@@ -32,8 +32,6 @@
 -----------------------------
 
 *Curiosidades sobre mim:*
-
-- Meu nome é Broke por que eu tava meio depressivo nessa época (não vou mentir hehe)
 
 - Sim, eu faço parte de web famílias ksksksksksks '-'
 
