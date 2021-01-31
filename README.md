@@ -1,4 +1,4 @@
-#                                                                    *Hatsu* 
+#                                                                    *Hatsu* <img src="https://cdn.discordapp.com/attachments/783731417783861298/805499277420789770/y_black_Saturno_walker.gif" height="30px" width="30px"/> 
 ##
  
 <p align="center">Olá! Me chamo Hatsu e sou um estudande de linguagens funcionais.
@@ -20,8 +20,8 @@
  
 #                                                                    *Linguagens & Ferramentas* <img src="https://cdn.discordapp.com/attachments/783731417783861298/805500496466673674/staff.gif" height="30px" width="30px"/> 
  
- [![forthebadge](https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)](https://github.com/klscvotic)
- [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/klscvotic.)
+ [![forthebadge](https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)]
+ [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
  
  
  
