@@ -1,5 +1,4 @@
-#                                                                    *Hatsu ->* <img src="https://cdn.discordapp.com/attachments/783731417783861298/805499277420789770/y_black_Saturno_walker.gif" height="30px" width="30px"/> 
- 
+#                                                                    *Hatsu* 
 ##
  
 <p align="center">Olá! Me chamo Hatsu e sou um estudande de linguagens funcionais.
